@@ -1,0 +1,32 @@
+I recommend that you use the code runner plugin for vsc when using this library. Or use something like it.
+
+It helps you to only run highlighted code at a time.
+
+The plugin in not needed to use the library and i have tried to make it as readable as possible.
+CODE RUNNER IS RECOMMENDED
+
+Recomended order of learning:
+
+
+
+Strings
+Formatted Strings
+String Methods
+Arithmetic Operations
+Operator Precedence
+Math Functions
+If Statements
+Logical Operators
+Comparison Operators
+Weight Converter Program
+While Loops
+Guessing Game
+Car Game
+For Loops
+Nested Loops
+Lists
+2D Lists
+List Methods
+Tuples
+Unpacking
+Dictionaries
